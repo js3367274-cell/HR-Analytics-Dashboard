@@ -104,7 +104,8 @@ The dataset contains employee-related information including:
 
 ## Main Dashboard
 
-![alt text](image.png)
+![alt text](Screenshots/dashboard.png)
+
 ```text
 Images/Dashboard.png
 ```
